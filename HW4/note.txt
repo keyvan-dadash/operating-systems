@@ -1,0 +1,13 @@
+q1) soal aval q1.c javab ast baghiee bara tamrin bode behtar ast az makefile estefade konid
+
+
+
+q2)
+1)khobiee in ravesh in ast ke niaazi be copy data nist va shared ast beyn process ha va az tarfi mitavan az address ke mad nazar bod besorat
+global beyn process ha estefade kard az khobi haye dige in ravesh in ast ke niaazi be kernel nist va be sorat direct in data mitone be process
+dige bere
+
+2)khobie pipe in ast ke ba design dorost niazzi be lock kardan ya semaphore nist mitavan kole write ro ba ye operation anjam dad va ye limite
+dare bara inke operation atomic bashe age kamtar az on bashe okeye
+
+3)bale mishe age besorat pointer bashe toye memory allocate mishe va option dorosti entekhab she mitonim share konim
